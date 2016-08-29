@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3piezas" id="3piezas">
+	<SimpleField name="Id" type="int"></SimpleField>
+	<SimpleField name="NODO" type="string"></SimpleField>
+	<SimpleField name="IMAGEN" type="string"></SimpleField>
+	<SimpleField name="PIEZA" type="string"></SimpleField>
+	<SimpleField name="DIAM" type="string"></SimpleField>
+	<SimpleField name="FALTA" type="string"></SimpleField>
+</Schema>
+<Folder><name>3piezas</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G219</SimpleData>
+		<SimpleData name="IMAGEN">PE-G219</SimpleData>
+		<SimpleData name="PIEZA">TEE</SimpleData>
+		<SimpleData name="DIAM">200x160x200</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.464247306435169,20.004068379983931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G205</SimpleData>
+		<SimpleData name="IMAGEN">PE-G205</SimpleData>
+		<SimpleData name="PIEZA">TEE</SimpleData>
+		<SimpleData name="DIAM">250x160x250</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.469600780520722,20.003155945378165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G204</SimpleData>
+		<SimpleData name="IMAGEN">PE-G204</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">200</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.470338078205742,20.003020627099811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G209</SimpleData>
+		<SimpleData name="IMAGEN">PE-G209</SimpleData>
+		<SimpleData name="PIEZA">TEE, REDUCCIÓN</SimpleData>
+		<SimpleData name="DIAM">250x160x250, 250a200</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.46691447556961,20.003619304166861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G231</SimpleData>
+		<SimpleData name="IMAGEN">PE-G231</SimpleData>
+		<SimpleData name="PIEZA">CRUZ</SimpleData>
+		<SimpleData name="DIAM">200x160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.474529015644606,20.004363386847313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G230</SimpleData>
+		<SimpleData name="IMAGEN">PE-G230</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°, TEE,RED BUSHING</SimpleData>
+		<SimpleData name="DIAM">200,200x160x200,160a100</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.474322038965937,20.003418355038782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G264</SimpleData>
+		<SimpleData name="IMAGEN">PE-G264</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">355</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.463612936320516,20.011527981527856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G265</SimpleData>
+		<SimpleData name="IMAGEN">PE-G265</SimpleData>
+		<SimpleData name="PIEZA">TEE, REDUCCIÓN</SimpleData>
+		<SimpleData name="DIAM">355, 355a160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.463688175647263,20.011677528679041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G286</SimpleData>
+		<SimpleData name="IMAGEN">PE-G286</SimpleData>
+		<SimpleData name="PIEZA">TEE,REDUCCIÓN</SimpleData>
+		<SimpleData name="DIAM">315, 315a160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.46162114005088,20.011934478012837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G287</SimpleData>
+		<SimpleData name="IMAGEN">PE-G287</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.461174551388325,20.011131003098726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G289</SimpleData>
+		<SimpleData name="IMAGEN">PE-G289</SimpleData>
+		<SimpleData name="PIEZA">TEE,REDUCCIÓN</SimpleData>
+		<SimpleData name="DIAM">315x160x315, 315a200</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.458891844146848,20.013034828363786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G298</SimpleData>
+		<SimpleData name="IMAGEN">PE-G298</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">315</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.458282185757952,20.012114602755201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G292</SimpleData>
+		<SimpleData name="IMAGEN">PE-G292</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.457759762047402,20.014628737295176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G291</SimpleData>
+		<SimpleData name="IMAGEN">PE-G291</SimpleData>
+		<SimpleData name="PIEZA">REDUCCIÓN, CODO 90°</SimpleData>
+		<SimpleData name="DIAM">200a160,160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.458325361343014,20.014533770273243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G293</SimpleData>
+		<SimpleData name="IMAGEN">PE-G293</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°, TEE</SimpleData>
+		<SimpleData name="DIAM">160, 160x160x160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.457077620035903,20.015072493629802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G295</SimpleData>
+		<SimpleData name="IMAGEN">PE-G295</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.45689824494255,20.015411211440931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G296</SimpleData>
+		<SimpleData name="IMAGEN">PE-G296</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.45689232343662,20.015713286374751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G268</SimpleData>
+		<SimpleData name="IMAGEN">PE-G268</SimpleData>
+		<SimpleData name="PIEZA">TEE,REDUCCIÓN</SimpleData>
+		<SimpleData name="DIAM">355,355a315</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.462071148604167,20.012730338471652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G315</SimpleData>
+		<SimpleData name="IMAGEN">PE-G315</SimpleData>
+		<SimpleData name="PIEZA">TEE, REDUCCIÓN</SimpleData>
+		<SimpleData name="DIAM">250x250x250,250a200</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.454496731293474,20.017468227939226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G314</SimpleData>
+		<SimpleData name="IMAGEN">PE-G314</SimpleData>
+		<SimpleData name="PIEZA">CODO 45°</SimpleData>
+		<SimpleData name="DIAM">250</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.453912253078926,20.016528513808382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G308</SimpleData>
+		<SimpleData name="IMAGEN">PE-G308</SimpleData>
+		<SimpleData name="PIEZA">TEE,CODO 22°</SimpleData>
+		<SimpleData name="DIAM">250x160x250, 250</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.453983668037694,20.015976588291817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G303</SimpleData>
+		<SimpleData name="IMAGEN">PE-G303</SimpleData>
+		<SimpleData name="PIEZA">TEE,REDUCCIÓN, CODO 22°</SimpleData>
+		<SimpleData name="DIAM">315x160x315,315a250,250</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.454377940015647,20.014860528985988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G316</SimpleData>
+		<SimpleData name="IMAGEN">PE-G316</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°, TEE, REDUCCIÓN</SimpleData>
+		<SimpleData name="DIAM">200,200x160x200, 200a160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.454968041797414,20.018011400074187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G245</SimpleData>
+		<SimpleData name="IMAGEN">PE-G245</SimpleData>
+		<SimpleData name="PIEZA">TEE</SimpleData>
+		<SimpleData name="DIAM">160x160x160</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.467011912005361,20.005342598157711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G242</SimpleData>
+		<SimpleData name="IMAGEN">PE-G242</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.469663638476533,20.005080022438541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G243</SimpleData>
+		<SimpleData name="IMAGEN">PE-G243</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.469648013026017,20.004953920529662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G247</SimpleData>
+		<SimpleData name="IMAGEN">PE-G247</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.466160125447146,20.005468180320161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G210</SimpleData>
+		<SimpleData name="IMAGEN">PE-G210</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.466780192590278,20.003155134114234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G211</SimpleData>
+		<SimpleData name="IMAGEN">PE-G211</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.466817409434242,20.002728476350725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G262</SimpleData>
+		<SimpleData name="IMAGEN">PE-G262</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.464787472605735,20.011082953853514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G269</SimpleData>
+		<SimpleData name="IMAGEN">PE-G269</SimpleData>
+		<SimpleData name="PIEZA">CODO 90°</SimpleData>
+		<SimpleData name="DIAM">250</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.462015012154183,20.012763930500157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G290</SimpleData>
+		<SimpleData name="IMAGEN">PE-G290</SimpleData>
+		<SimpleData name="DIAM">200</SimpleData>
+		<SimpleData name="FALTA">02 CON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.457926477072505,20.013436553527338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G318</SimpleData>
+		<SimpleData name="IMAGEN">PE-G318</SimpleData>
+		<SimpleData name="PIEZA">TEE,CODO 22°</SimpleData>
+		<SimpleData name="DIAM">160x160x160, 160</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.456120750830678,20.018779542875702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#3piezas">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="NODO">G317</SimpleData>
+		<SimpleData name="IMAGEN">PE-G317</SimpleData>
+		<SimpleData name="PIEZA">CODO 22°</SimpleData>
+		<SimpleData name="DIAM">160</SimpleData>
+		<SimpleData name="FALTA">01 SIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.45583158097368,20.018674079629282</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
